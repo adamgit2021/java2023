@@ -5,12 +5,14 @@
 <p>dodawanie liczb sczytanych od uzytkownika</p>
 
 ## zadanie 1
-<p>1. Napisac program, ktory wczytuje od uzytkownika ciag znakow, a nastepnie wyswietla informacje o tym ile razy w tym ciagu powtarza sie jego ostatni znak.</p>
-<p>Przyklad, dla ciagu ,,Abrakadabra" program powinien wyswietlic 4, poniewaz
-ostatnim znakiem jest literka ,,a", ktora wystepuje w podanym ciagu lacznie 4 razy.</p>
+<p>1. Napisac program, ktory wczytuje od uzytkownika ciag znakow,</br>
+a nastepnie wyswietla informacje o tym ile razy w tym ciagu powtarza sie jego ostatni znak.</p>
+<p>Przyklad, dla ciagu ,,Abrakadabra" program powinien wyswietlic 4,</br>
+poniewaz ostatnim znakiem jest literka ,,a", ktora wystepuje w podanym ciagu lacznie 4 razy.</p>
 
 ## zadanie 2
-<p>2. Napisac program, ktory wczytuje od uzytkownika ciag znakow, a nastepnie tworzy lancuch bedacy odwroceniem podanego lancucha i wyswietla go na ekranie.</p>
+<p>2. Napisac program, ktory wczytuje od uzytkownika ciag znakow,</br>
+a nastepnie tworzy lancuch bedacy odwroceniem podanego lancucha i wyswietla go na ekranie.</p>
 <p>Przykladowo, dla lancucha ,,Kot" wynikiem powinien byc lancuch ,,toK".</p>
 
 ## zadanie 3
