@@ -16,7 +16,8 @@ a nastepnie tworzy lancuch bedacy odwroceniem podanego lancucha i wyswietla go n
 <p>Przykladowo, dla lancucha ,,Kot" wynikiem powinien byc lancuch ,,toK".</p>
 
 ## zadanie 3
-<p>3. Napisac program, ktory wczytuje od uzytkownika ciag znakow, a nastepnie sprawdza, czy podany ciag jest palindromem.</p>
+<p>3. Napisac program, ktory wczytuje od uzytkownika ciag znakow, a nastepnie sprawdza,</br>
+czy podany ciag jest palindromem.</p>
 
 ## zadanie 4
 <p>4. Napisac program, ktory sumuje cyfry w tekscie podanym przez uzytkownika.</p>
@@ -26,4 +27,6 @@ Wynik:
 6</p>
 
 ## zadanie 5
-<p>5. Napisz program, ktory sprawdzi, czy w podanym przez uzytkownika wyrazeniu arytmetycznym nawiasy sa poprawnie sparowane. Wyrazenie podawane jest jako pojedynczy lancuch znakow. Program powinien wyswietlic stosowny komunikat.<p>
+<p>5. Napisz program, ktory sprawdzi, czy w podanym przez uzytkownika wyrazeniu arytmetycznym</br>
+nawiasy sa poprawnie sparowane. Wyrazenie podawane jest jako pojedynczy lancuch znakow.</br>
+Program powinien wyswietlic stosowny komunikat.<p>
