@@ -23,5 +23,5 @@ Wynik:
 6</p>
 
 ## zadanie 5
-<p>Napisz program, ktory sprawdzi, czy w podanym przez uzytkownika wyrazeniu arytmetycznym nawiasy sa poprawnie sparowane. Wyrazenie podawane jest jako pojedynczy lancuch znakow.</br>
-Program powinien wyswietlic stosowny komunikat.<p>
+<p>Napisz program, ktory sprawdzi, czy w podanym przez uzytkownika wyrazeniu arytmetycznym nawiasy sa poprawnie sparowane. Wyrazenie podawane jest jako pojedynczy lancuch znakow.</p>
+<p>Program powinien wyswietlic stosowny komunikat.</p>
