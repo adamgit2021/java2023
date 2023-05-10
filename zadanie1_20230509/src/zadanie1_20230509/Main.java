@@ -1,14 +1,16 @@
 package zadanie1_20230509;
 import java.util.Scanner;
 import java.util.Arrays;
+import java.io.File;
 
 public class Main {
 
-	static void liczZnakiSlowa() {
+	static void liczZnakiSlowa() throws Exception {
 		String str;
 		int whitespace=0;
 		
-		Scanner scan=new Scanner(System.in); 
+		File file = new File("C:\\Users\\Adam\\Desktop\\test.txt");
+		Scanner scan=new Scanner(file); 
 		    
 		System.out.println("Enter the String  ");
 		str=scan.nextLine();
@@ -36,7 +38,7 @@ public class Main {
 		System.out.println(Arrays.toString(result));
 	}
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		liczZnakiSlowa();				
 		}	
 	}
